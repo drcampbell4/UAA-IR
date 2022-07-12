@@ -1,0 +1,4 @@
+Select
+    IRPROD.dbo.UA_High_Demand_Programs.*
+From
+    IRPROD.dbo.UA_High_Demand_Programs
